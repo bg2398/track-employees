@@ -35,3 +35,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 2. Run the command npm install to download the packages.
 3. After run the command node index.js to run the software.
 4. The command prompts will display in your terminal
+
+## Tutorial
+Video: https://drive.google.com/file/d/1tDM3l5BANbeUMrTqKsJ5NstdeK4-JpUQ/view
