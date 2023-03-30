@@ -4,17 +4,17 @@ INSERT INTO department
 VALUES
   ('Engineering'),
   ('Sales'),
-  ('Finance'),
-  ('Legal');
+  ('Service'),
+  ('Customer Service');
 
 -- Insert the roles of employees into role table
 INSERT INTO role
   (title, salary, department_id)
 VALUES
-  ('Software Engineer', 85000, 1),
-  ('Salesperson', 75000, 2),
-  ('Accountant', 125000, 3),
-  ('Lawyer', 200000, 4);
+  ('Software Engineer', 180000, 1),
+  ('Sales Rep', 60000, 2),
+  ('Technician', 50000, 3),
+  ('Advisors', 30000, 4);
 
 -- Insert the  employee information into the employee table
 INSERT INTO employee
